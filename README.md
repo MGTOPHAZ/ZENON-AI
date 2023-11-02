@@ -3,7 +3,7 @@
 ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/adiwajshing/Baileys)***
 
 ## FEATURES
-This is a highly customisable simple whatsapp bot with group management features and few media commands and chatgpt courtesy of openai APIs.
+This is a advanced simple whatsapp bot with group management features and few media commands and chatgpt courtesy of openai APIs.
 
 You will need an openai API key for AI features to work.
 
