@@ -1,4 +1,4 @@
-# ZENON-BOT
+# ZENON-AI
 
 ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/adiwajshing/Baileys)***
 
@@ -11,12 +11,12 @@ You will need an openai API key for AI features to work.
 
 Linking/Pairing:
 
-- Head  [Here](https://github.com/MGTOPHAZ/ZENON-PAIRING) and use that repo to pair the bot without scanning qr.
+- Head  [Here](https://github.com/MGTOPHAZ/ZENON-PAIR) and use that repo to pair the bot without scanning qr.
 
     
 <h2 align="center">   
 
-- Fork this repo by tapping  [here](https://github.com/MGTOPHAZ/ZENON-GPT-AI/fork)
+- Fork this repo by tapping  [here](https://github.com/MGTOPHAZ/ZENON-AI/fork)
 
 
 - Upload the creds.json that you received to the Zenon2 folder.
@@ -59,7 +59,7 @@ Modifying the bot structure is at your own risk. We won't offer technical suppor
 
 ## License
 
-[MIT License](https://github.com/MGTOPHAZ/ZENON-GPT-AI/blob/main/LICENSE)
+[MIT License](https://github.com/MGTOPHAZ/ZENON-AI/blob/main/LICENSE)
 
 ©2023 ZENON-AI
 
