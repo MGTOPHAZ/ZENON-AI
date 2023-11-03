@@ -40,8 +40,8 @@ Termux procedure is given below.
 
 ```bash
 $ pkg install git nodejs -y
-$ git clone https://github.com/MGTOPHAZ/ZENON-GPT-AI
-$ cd ZENON-GPT-AI
+$ git clone https://github.com/MGTOPHAZ/ZENON-AI
+$ cd ZENON-AI
 $ npm install
 ```
 
