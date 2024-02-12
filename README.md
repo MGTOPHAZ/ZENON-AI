@@ -1,4 +1,18 @@
 # ZENON-AI
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=Red&center=true&width=910&height=100&lines=ZENON-AI;ADVANCED +AI+WHATSAPP+BOT;CREATED+BY+MGTOPHAZ-dX;PUBLIC+RELESED; ...;TEAM ZENON-AI." alt="Typing SVG" /></a>
+  </p>
+  <br>
+   
+<p align="center">  
+  <a href=" ">
+    <img alt=ZENON-AI height="300" src="https://telegra.ph/file/02ce57cb0dc850e5d8e0a.jpg">
+   
+</a> 
+    
+</p>
+<p align="center">
+<a 
 
 ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/adiwajshing/Baileys)***
 
