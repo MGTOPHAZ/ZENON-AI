@@ -1,6 +1,6 @@
 # ZENON-AI
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=Red&center=true&width=910&height=100&lines=ZENON-AI;ADVANCED +AI+WHATSAPP+BOT;CREATED+BY+MGTOPHAZ-dX;PUBLIC+RELESED; ...;TEAM ZENON-AI." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=Red&center=true&width=910&height=100&lines=ZENON-AI;ADVANCED +AI+WHAT;CREATED+BY+MGTOPHAZ-dX;WITH+HELP+OF+NODEJS+AND+BAILEYS; ...;TEAM ZENON-AI." alt="Typing SVG" /></a>
   </p>
   <br>
    
@@ -16,10 +16,6 @@
 
 ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/adiwajshing/Baileys)***
 
-## FEATURES
-This is a advanced simple whatsapp bot with group management features and few media commands and chatgpt courtesy of openai APIs.
-
-You will need an openai API key for AI features to work.
 
 # SET-UP
 
