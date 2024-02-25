@@ -23,7 +23,8 @@
 ## ```ZENON-AI MAIN GROUP```
 <p align="center">
 
-<a href="https://chat.whatsapp.com/GyptuHxTi4DKZWaNyBUAm8"><img src="https://img.shields.io/badge/Join support group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="***This bot is created with the help of NodeJS and uses [GROUP](https://chat.whatsapp.com/GyptuHxTi4DKZWaNyBUAm8)
+ ><img src="https://img.shields.io/badge/Join support group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 </p>
 
