@@ -7,15 +7,27 @@
 <p align="center">  
   <a href=" ">
     <img alt=ZENON-AI height="300" src="https://telegra.ph/file/02ce57cb0dc850e5d8e0a.jpg">
-   
-</a> 
-   
+
+</br>
+
+## ```CONNECT WITH ME```
+
+<p align="center">
+
+<a href="https://api.whatsapp.com/send?phone=254705243111&text=Hello+dX"><img src="https://img.shields.io/badge/Contact MGTOPHAZ-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+</p>
+
+
+
 ## ```ZENON-AI MAIN GROUP```
 <p align="center">
 
-<a href="https://chat.whatsapp.com/GyptuHxTi4DKZWaNyBUAm8"><img src="https://chat.whatsapp.com/GyptuHxTi4DKZWaNyBUAm8?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/GyptuHxTi4DKZWaNyBUAm8"><img src="https://img.shields.io/badge/Join support group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
- 
+</p>
+
+
 </p>
 <p align="center">
 <a 
