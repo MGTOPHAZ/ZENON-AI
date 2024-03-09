@@ -1,4 +1,4 @@
-# 🦄 ZENON-AI by 𝙿𝙰𝙳𝚁𝙾𝙽 MGTOPHAZ!-)ᵈX🦄 
+# ZENON-AI ⱽᴵᴬ MGTOPHAZ!-)ᵈX🦄 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=Red&center=true&width=910&height=100&lines=ZENON-AI;ADVANCED+WHATSAPP+BOT;CREATED+BY+MGTOPHAZ-dX; WITH+HELP+OF+NODEJS+AND+BAILEYS; ...;TEAM ZENON-AI." alt="Typing SVG" /></a>
   </p>
