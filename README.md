@@ -23,7 +23,7 @@
 <p align="center">
 <a 
 
-***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/adiwajshing/Baileys)***
+***This bot is created with  the help of NodeJS and uses [Baileys](https://github.com/adiwajshing/Baileys)***
 
 
 # SET-UP
